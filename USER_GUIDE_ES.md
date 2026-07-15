@@ -199,17 +199,18 @@ La interfaz web incluye una seccion de **Firmware** en la parte inferior de la p
 
 El Wi-Fi del pedal no provee acceso a internet. El telefono no puede descargar nada mientras esta conectado al pedal, asi que descargar el archivo e instalarlo son dos pasos separados.
 
-1. En la seccion **Firmware**, toca **Descargar ultima version**. Esto abre la pagina de descargas en una pestaña nueva. Todavia no va a cargar, y eso es normal.
-2. Apaga el Wi-Fi del telefono, o desconectate de la red del pedal. La pestaña nueva ahora carga usando los datos moviles o el Wi-Fi de tu casa.
-3. Descarga el archivo **.bin** de la ultima version.
-4. Vuelve a conectarte al Wi-Fi del pedal y abre la interfaz web otra vez.
-5. Toca **Seleccionar archivo .bin** y elige el archivo que descargaste.
-6. Toca **Actualizar Firmware** y confirma cuando se te solicite.
-7. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
+**Paso 1: descargar el archivo.** Mientras todavia tienes internet, desde cualquier dispositivo, entra a:
 
-Puedes saltarte los pasos 1 y 2 descargando el archivo antes de conectarte al pedal. La pagina de descargas esta siempre en:
+**sanchezsimracing.com.ar/firmware**
 
-https://github.com/sanchezsimracing/ss-brake-pedal-firmware/releases/latest
+Descarga el archivo **.bin** de la ultima version. La seccion **Firmware** de la interfaz web muestra esta misma direccion, y puedes tocarla para copiarla.
+
+**Paso 2: instalarlo.**
+
+1. Conectate al Wi-Fi del pedal y abre la interfaz web.
+2. Toca **Seleccionar archivo .bin** y elige el archivo que descargaste.
+3. Toca **Actualizar Firmware** y confirma cuando se te solicite.
+4. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
 
 > **Nota:** Solo se aceptan archivos de firmware firmados por Sanchez SimRacing. Si el archivo es invalido o no reconocido, la actualizacion sera rechazada y no se realizara ningun cambio.
 

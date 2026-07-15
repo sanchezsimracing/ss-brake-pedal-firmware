@@ -199,17 +199,18 @@ The web interface includes a **Firmware** section at the bottom of the page. It 
 
 The pedal's Wi-Fi does not provide internet access. Your phone cannot download anything while it is connected to the pedal, so downloading the file and installing it are two separate steps.
 
-1. In the **Firmware** section, tap **Download latest version**. This opens the downloads page in a new tab. It will not load yet, which is expected.
-2. Turn off Wi-Fi on your phone, or disconnect from the pedal's network. The new tab now loads over your mobile data or your home Wi-Fi.
-3. Download the **.bin** file from the latest release.
-4. Reconnect to the pedal's Wi-Fi and open the web interface again.
-5. Tap **Select .bin file** and choose the file you downloaded.
-6. Tap **Update Firmware** and confirm when prompted.
-7. A progress bar shows the upload status. Once complete, the device reboots automatically with the new firmware.
+**Step 1: download the file.** While you still have internet, on any device, go to:
 
-You can skip steps 1 and 2 by downloading the file before you connect to the pedal. The downloads page is always at:
+**sanchezsimracing.com.ar/firmware**
 
-https://github.com/sanchezsimracing/ss-brake-pedal-firmware/releases/latest
+Download the **.bin** file from the latest release. The **Firmware** section of the web interface shows this same address, and you can tap it to copy it.
+
+**Step 2: install it.**
+
+1. Connect to the pedal's Wi-Fi and open the web interface.
+2. Tap **Select .bin file** and choose the file you downloaded.
+3. Tap **Update Firmware** and confirm when prompted.
+4. A progress bar shows the upload status. Once complete, the device reboots automatically with the new firmware.
 
 > **Note:** Only firmware files signed by Sanchez SimRacing will be accepted. If the file is invalid or unrecognized, the update will be rejected and no changes will be made.
 
