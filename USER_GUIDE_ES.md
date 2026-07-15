@@ -195,14 +195,30 @@ Si aparece alguno de estos codigos, revisa todas las conexiones de cables y rein
 
 ## Actualizacion de Firmware
 
-La interfaz web incluye una seccion de **Firmware** en la parte inferior de la pagina. Muestra la version actual del firmware y permite instalar actualizaciones cuando esten disponibles.
+La interfaz web incluye una seccion de **Firmware** en la parte inferior de la pagina. Muestra la version actual del firmware y ofrece dos formas de instalar una actualizacion.
+
+### Automatica (recomendada)
+
+El telefono descarga la actualizacion y la instala por ti. No hace falta computadora ni cables.
+
+1. Asegurate de tener los datos moviles activados. El pedal no tiene conexion a internet propia, asi que el telefono la aporta mientras sigue conectado al Wi-Fi del pedal.
+2. Abre la interfaz web en tu navegador normal (Chrome o Safari) escribiendo **192.168.4.1** en la barra de direcciones. La actualizacion automatica no funciona desde la pantalla de inicio de sesion de Wi-Fi que algunos telefonos muestran al conectarse, porque esa pantalla no tiene acceso a internet.
+3. Toca **Buscar actualizaciones**.
+4. Si hay una version mas nueva, el pedal muestra la version que va a instalar. Toca **Actualizar Firmware** y confirma.
+5. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
+
+Si el pedal indica que no hay internet, usa el metodo manual.
+
+### Manual
+
+Usa este metodo si la busqueda automatica no logra conectarse a internet, o si recibiste un archivo de firmware especifico.
 
 1. Descarga el archivo de firmware (.bin) proporcionado por Sanchez SimRacing.
 2. Toca **Seleccionar archivo .bin** y elige el archivo descargado.
 3. Toca **Actualizar Firmware** y confirma cuando se te solicite.
 4. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
 
-> **Nota:** Solo se aceptan archivos de firmware firmados por Sanchez SimRacing. Si el archivo es invalido o no reconocido, la actualizacion sera rechazada y no se realizara ningun cambio.
+> **Nota:** Solo se aceptan archivos de firmware firmados por Sanchez SimRacing, con cualquiera de los dos metodos. Si el archivo es invalido o no reconocido, la actualizacion sera rechazada y no se realizara ningun cambio.
 
 ---
 
