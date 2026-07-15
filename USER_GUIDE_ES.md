@@ -195,30 +195,23 @@ Si aparece alguno de estos codigos, revisa todas las conexiones de cables y rein
 
 ## Actualizacion de Firmware
 
-La interfaz web incluye una seccion de **Firmware** en la parte inferior de la pagina. Muestra la version actual del firmware y ofrece dos formas de instalar una actualizacion.
+La interfaz web incluye una seccion de **Firmware** en la parte inferior de la pagina. Muestra la version actual del firmware y permite instalar una nueva.
 
-### Automatica (recomendada)
+El Wi-Fi del pedal no provee acceso a internet. El telefono no puede descargar nada mientras esta conectado al pedal, asi que descargar el archivo e instalarlo son dos pasos separados.
 
-El telefono descarga la actualizacion y la instala por ti. No hace falta computadora ni cables.
+1. En la seccion **Firmware**, toca **Descargar ultima version**. Esto abre la pagina de descargas en una pestaña nueva. Todavia no va a cargar, y eso es normal.
+2. Apaga el Wi-Fi del telefono, o desconectate de la red del pedal. La pestaña nueva ahora carga usando los datos moviles o el Wi-Fi de tu casa.
+3. Descarga el archivo **.bin** de la ultima version.
+4. Vuelve a conectarte al Wi-Fi del pedal y abre la interfaz web otra vez.
+5. Toca **Seleccionar archivo .bin** y elige el archivo que descargaste.
+6. Toca **Actualizar Firmware** y confirma cuando se te solicite.
+7. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
 
-1. Asegurate de tener los datos moviles activados. El pedal no tiene conexion a internet propia, asi que el telefono la aporta mientras sigue conectado al Wi-Fi del pedal.
-2. Abre la interfaz web en tu navegador normal (Chrome o Safari) escribiendo **192.168.4.1** en la barra de direcciones. La actualizacion automatica no funciona desde la pantalla de inicio de sesion de Wi-Fi que algunos telefonos muestran al conectarse, porque esa pantalla no tiene acceso a internet.
-3. Toca **Buscar actualizaciones**.
-4. Si hay una version mas nueva, el pedal muestra la version que va a instalar. Toca **Actualizar Firmware** y confirma.
-5. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
+Puedes saltarte los pasos 1 y 2 descargando el archivo antes de conectarte al pedal. La pagina de descargas esta siempre en:
 
-Si el pedal indica que no hay internet, usa el metodo manual.
+https://github.com/sanchezsimracing/ss-brake-pedal-firmware/releases/latest
 
-### Manual
-
-Usa este metodo si la busqueda automatica no logra conectarse a internet, o si recibiste un archivo de firmware especifico.
-
-1. Descarga el archivo de firmware (.bin) proporcionado por Sanchez SimRacing.
-2. Toca **Seleccionar archivo .bin** y elige el archivo descargado.
-3. Toca **Actualizar Firmware** y confirma cuando se te solicite.
-4. Una barra de progreso mostrara el estado de la subida. Una vez completada, el dispositivo se reinicia automaticamente con el nuevo firmware.
-
-> **Nota:** Solo se aceptan archivos de firmware firmados por Sanchez SimRacing, con cualquiera de los dos metodos. Si el archivo es invalido o no reconocido, la actualizacion sera rechazada y no se realizara ningun cambio.
+> **Nota:** Solo se aceptan archivos de firmware firmados por Sanchez SimRacing. Si el archivo es invalido o no reconocido, la actualizacion sera rechazada y no se realizara ningun cambio.
 
 ---
 
