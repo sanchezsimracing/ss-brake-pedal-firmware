@@ -60,6 +60,18 @@ Full user guide in English: **[USER_GUIDE_EN.md](USER_GUIDE_EN.md)**.
 
 ---
 
+## Licencia
+
+El firmware es software propietario de Sanchez SimRacing, licenciado
+unicamente para su uso en pedales SS Brake Pedal genuinos. Consulta
+**[LICENSE](LICENSE)** para los terminos completos y
+**[THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)** para los avisos de
+componentes de codigo abierto incluidos en el firmware.
+
+License terms in English: see **[LICENSE](LICENSE)**.
+
+---
+
 ## Soporte
 
 Para cualquier consulta o problema, contactanos en:

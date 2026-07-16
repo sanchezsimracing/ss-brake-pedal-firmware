@@ -1,0 +1,49 @@
+SS Brake Pedal Firmware License
+
+Copyright (c) 2025-2026 Sanchez SimRacing. All rights reserved.
+
+This repository distributes the official firmware binaries (.bin files) and
+user documentation for the SS Brake Pedal, a product manufactured and sold by
+Sanchez SimRacing.
+
+1. FIRMWARE BINARIES
+
+   The firmware binaries published in the Releases section of this repository
+   are proprietary software. Subject to the terms below, Sanchez SimRacing
+   grants you a non-exclusive, non-transferable license to download and
+   install these binaries solely on a genuine SS Brake Pedal device
+   manufactured by Sanchez SimRacing.
+
+   You may not:
+   a) redistribute, sell, rent, or sublicense the firmware binaries;
+   b) modify, adapt, or create derivative works of the firmware;
+   c) reverse engineer, decompile, or disassemble the firmware, except to
+      the extent that applicable law permits it despite this limitation;
+   d) install or run the firmware on hardware other than a genuine
+      SS Brake Pedal device.
+
+2. DOCUMENTATION
+
+   The user guides and other documentation in this repository may be viewed,
+   downloaded, printed, and shared free of charge, provided they are not
+   modified and this copyright notice is preserved. They may not be sold or
+   used to represent products other than the SS Brake Pedal.
+
+3. THIRD-PARTY SOFTWARE
+
+   The firmware incorporates third-party open-source components. Their
+   copyright notices and license terms are listed in
+   THIRD_PARTY_LICENSES.md. Nothing in this license restricts any rights
+   granted to you by the licenses of those components.
+
+4. NO WARRANTY
+
+   THE FIRMWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL SANCHEZ SIMRACING BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM THE USE OF THE FIRMWARE OR DOCUMENTATION.
+   THIS SECTION DOES NOT AFFECT ANY STATUTORY CONSUMER RIGHTS OR PRODUCT
+   WARRANTY THAT APPLIES TO YOUR PURCHASE OF THE PHYSICAL DEVICE.
+
+For questions about this license, contact: support@sanchezsimracing.com.ar
