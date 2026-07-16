@@ -278,6 +278,26 @@ Toca **Reiniciar** al final de la interfaz web (toca dos veces para confirmar). 
 
 ---
 
+## Garantia
+
+El pedal cuenta con la garantia legal de **6 meses** desde la fecha de entrega (Ley 24.240, Argentina), que cubre los defectos de fabricacion o de funcionamiento. El responsable de la garantia es **Sanchez SimRacing**.
+
+La garantia no cubre daños causados por golpes, humedad, uso indebido, modificaciones al dispositivo o una instalacion distinta a la indicada en esta guia.
+
+Para hacer un reclamo, contactanos a **support@sanchezsimracing.com.ar** describiendo el problema y la version de firmware que muestra la interfaz web. Evaluaremos el caso y, si el defecto esta cubierto, repararemos o reemplazaremos el dispositivo sin cargo.
+
+Esta garantia no limita los derechos que la ley reconoce al consumidor.
+
+---
+
+## Devolucion de una Compra a Distancia
+
+Si compraste el pedal por internet o por otro medio de venta a distancia, tienes derecho a revocar la compra dentro de los **10 dias corridos** desde que lo recibiste (art. 34, Ley 24.240).
+
+Para ejercer este derecho, contactanos a **support@sanchezsimracing.com.ar** dentro de ese plazo, conservando el producto completo y en buen estado. Coordinaremos la devolucion y el reembolso.
+
+---
+
 ## Soporte
 
 Para cualquier consulta o problema, contactanos en:

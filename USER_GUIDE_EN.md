@@ -278,6 +278,26 @@ Tap **Reboot Device** at the bottom of the web interface (tap twice to confirm).
 
 ---
 
+## Warranty
+
+For purchases in Argentina, the pedal carries the legal warranty of **6 months** from the date of delivery (Law 24.240), covering manufacturing and functional defects. The warranty is provided by **Sanchez SimRacing**.
+
+The warranty does not cover damage caused by impacts, moisture, misuse, modifications to the device, or an installation different from the one described in this guide.
+
+To make a claim, contact us at **support@sanchezsimracing.com.ar** describing the problem and the firmware version shown in the web interface. We will assess the case and, if the defect is covered, repair or replace the device free of charge.
+
+This warranty does not limit the rights granted to consumers by law.
+
+---
+
+## Returning a Distance Purchase
+
+If you bought the pedal online or through any other distance sales channel, you have the right to revoke the purchase within **10 calendar days** of receiving it (art. 34, Law 24.240).
+
+To exercise this right, contact us at **support@sanchezsimracing.com.ar** within that period, keeping the product complete and in good condition. We will arrange the return and refund with you.
+
+---
+
 ## Support
 
 For any questions or issues, reach us at:
