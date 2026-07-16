@@ -222,7 +222,7 @@ A companion plugin for [SimHub](https://www.simhubdash.com/) lets you configure 
 
 ### Installing the Plugin
 
-1. Download **SSBrakePedal.dll** from the link provided by Sanchez SimRacing.
+1. Download **SSBrakePedal.dll** from the plugin repository's [Releases](https://github.com/sanchezsimracing/ss-brake-pedal-simhub-plugin/releases/latest) page.
 2. Copy the file into the SimHub installation folder (typically `C:\Program Files (x86)\SimHub\`).
 3. Restart SimHub.
 
